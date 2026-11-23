@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Luis Chavarria Cayul - Ingenieria de operaciones, analitica de datos e IA aplicada">
+  <defs>
+    <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="55%" stop-color="#111c33"/>
+      <stop offset="100%" stop-color="#0d1a2b"/>
+    </linearGradient>
+    <linearGradient id="acento" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="50%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#14b8a6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#fondo)"/>
+
+  <!-- retícula sutil -->
+  <g stroke="#1e2d47" stroke-width="1" opacity="0.55">
+    <line x1="0" y1="80" x2="1200" y2="80"/>
+    <line x1="0" y1="160" x2="1200" y2="160"/>
+    <line x1="0" y1="240" x2="1200" y2="240"/>
+    <line x1="200" y1="0" x2="200" y2="320"/>
+    <line x1="400" y1="0" x2="400" y2="320"/>
+    <line x1="600" y1="0" x2="600" y2="320"/>
+    <line x1="800" y1="0" x2="800" y2="320"/>
+    <line x1="1000" y1="0" x2="1000" y2="320"/>
+  </g>
+
+  <!-- motivo: nodos enlazados, sugerencia de datos -->
+  <g opacity="0.85">
+    <g stroke="#2b6cb0" stroke-width="1.4" fill="none" opacity="0.75">
+      <path d="M880 90 L960 140 L1040 96"/>
+      <path d="M960 140 L1020 210 L1100 176"/>
+      <path d="M880 90 L905 190 L1020 210"/>
+      <path d="M1040 96 L1100 176"/>
+    </g>
+    <g fill="#38bdf8">
+      <circle cx="880" cy="90" r="5"/>
+      <circle cx="960" cy="140" r="6.5"/>
+      <circle cx="1040" cy="96" r="5"/>
+      <circle cx="1020" cy="210" r="6"/>
+      <circle cx="1100" cy="176" r="4.5"/>
+      <circle cx="905" cy="190" r="4.5"/>
+    </g>
+  </g>
+
+  <!-- barra de acento -->
+  <rect x="80" y="96" width="76" height="6" rx="3" fill="url(#acento)"/>
+
+  <text x="80" y="170" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"
+        font-size="52" font-weight="600" fill="#f8fafc" letter-spacing="-0.5">
+    Luis Chavarria Cayul
+  </text>
+
+  <text x="80" y="212" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"
+        font-size="21" fill="#93c5fd">
+    Ingeniería de operaciones · Analítica de datos · Automatización e IA aplicada
+  </text>
+
+  <text x="80" y="252" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"
+        font-size="15" fill="#64748b">
+    Transporte público · Programación de flota · Power BI · Python · Modelos de lenguaje
+  </text>
+</svg>

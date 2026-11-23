@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg" alt="Luis Chavarria Cayul — Ingeniería de operaciones, analítica de datos e IA aplicada" width="100%">
+  <img src="banner.svg" alt="Luis Chavarria — Ingeniería de operaciones, analítica de datos e IA aplicada" width="100%">
 </div>
 
 <div align="center">

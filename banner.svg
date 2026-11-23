@@ -47,9 +47,9 @@
   <!-- barra de acento -->
   <rect x="80" y="96" width="76" height="6" rx="3" fill="url(#acento)"/>
 
-  <text x="80" y="170" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"
-        font-size="52" font-weight="600" fill="#f8fafc" letter-spacing="-0.5">
-    Luis Chavarria Cayul
+  <text x="80" y="172" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"
+        font-size="60" font-weight="600" fill="#f8fafc" letter-spacing="-0.5">
+    Luis Chavarria
   </text>
 
   <text x="80" y="212" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"

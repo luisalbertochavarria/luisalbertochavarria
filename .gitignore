@@ -1,2 +1,6 @@
+# Auxiliares locales
 publicar_perfil.py
+render_logo.py
+logo_512.png
+logo_control.png
 __pycache__/
